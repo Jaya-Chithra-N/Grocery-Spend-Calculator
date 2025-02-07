@@ -25,7 +25,7 @@ Welcome to the **Grocery Spend Calculator**! 🎯 This simple web app helps you 
 
 ## 🎯 Live Demo  
 
-🚀 Want to see it in action? **[Click here](#)** (Update this link with your GitHub Pages or hosted URL)  
+🚀 Want to see it in action? **[https://jaya-chithra-n.github.io/Grocery-Spend-Calculator/](#)** 
 
 ---
 
