@@ -32,13 +32,16 @@ Welcome to the **Grocery Spend Calculator**! 🎯 This simple web app helps you 
 ## 📸 Screenshots  
 
 ### ✨ Before adding items:  
-![Before](https://via.placeholder.com/600x300?text=Enter+Number+of+Items)  
+![Screenshot 2025-02-01 182126](https://github.com/user-attachments/assets/47239a6b-7c2d-4a64-8e7e-c6ed2708fbf6)
 
-### ✨ After adding items:  
-![After](https://via.placeholder.com/600x300?text=Enter+Item+Names+and+Prices)  
 
-### ✨ Total cost displayed:  
-![Total](https://via.placeholder.com/600x300?text=Total+Grocery+Cost)  
+### ✨ After adding items and Total Cost dispalyed:  
+![Screenshot 2025-02-01 182357](https://github.com/user-attachments/assets/43394e93-434f-474f-9546-fec59f22d97e)
+ 
+
+### ✨ Invalid input handling:  
+![Screenshot 2025-02-01 182425](https://github.com/user-attachments/assets/f88108b2-954d-4359-bb94-015a821f491d)
+
 
 ---
 
@@ -56,6 +59,7 @@ Welcome to the **Grocery Spend Calculator**! 🎯 This simple web app helps you 
 📂 Grocery-Spend-Calculator
 │── 📜 index.html   # Main HTML file
 │── 📜 README.md    # This awesome README 😎
+```
 
 ---
 
